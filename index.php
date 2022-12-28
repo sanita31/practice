@@ -16,13 +16,32 @@
 <body>
     <?php include("includes/browser_upgrade.html") ?>
     <?php include("includes/loader.html") ?>
-    <?php include("includes/header.html") ?>
     <?php include("includes/sidebar.html") ?>
 
     <main id="index_page" class="smooth_scroll_pages">
         <!--  insert body content  -->
 
 
+        <section>
+            <div style="--c:yellow" class=" reveal active">
+
+            </div>
+        </section>
+        <section>
+            <div style="--c:black" class="reveal">
+
+            </div>
+        </section>
+        <section>
+            <div style="--c:yellow" class="reveal">
+
+            </div>
+        </section>
+        <section>
+            <div style="--c:black" class="reveal">
+
+            </div>
+        </section>
 
         <!--  end body content -->
     </main>
